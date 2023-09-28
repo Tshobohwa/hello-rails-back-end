@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello rails back end] <a name="about-project"></a>
+📖 [Hello rails back end] <a name="about-project"></a>
 
 **[Hello rails back end]** is a random greeting messages API.
 
