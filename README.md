@@ -32,7 +32,7 @@
 
 # 📖 [Hello rails back end] <a name="about-project"></a>
 
-**[Hello rails back end** a random greeting messages API.
+**[Hello rails back end]** is a random greeting messages API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
