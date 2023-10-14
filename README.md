@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello rails back end] <a name="about-project"></a>
+📖 [Hello rails back end] <a name="about-project"></a>
 
 **[Hello rails back end]** is a random greeting messages API.
 
@@ -51,6 +51,10 @@
 - generate random messages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Front end repository <a name="key-features"></a>
+
+[Hello React Front End](https://github.com/Tshobohwa/hello-react-front-end)
 
 <!-- LIVE DEMO -->
 <!-- GETTING STARTED -->
